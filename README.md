@@ -2,7 +2,7 @@
 
 **Author:** Jimmy Le-Nguyen  
 **Tools:** Python, SQLite, Matplotlib, Seaborn, Power BI  
-**Dataset:** NBA Daily Leaders 2024-25 — 28,265 game logs, 569 players, 30 teams
+**Dataset:** (Kaggle) NBA Daily Leaders 2024-25 — 28,265 game logs, 569 players, 30 teams 
 
 ---
 
